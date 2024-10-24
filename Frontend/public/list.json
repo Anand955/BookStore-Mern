@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 2,
+        "name": "Mystery Novel",
+        "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque.",
+        "price": 9.99,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 3,
+        "name": "Cooking Made Easy",
+        "title": "But I must explain to you how all this mistaken idea of denouncing pleasure.",
+        "price": 15.50,
+        "category": "Cooking",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 4,
+        "name": "The Great Adventure",
+        "title": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis.",
+        "price": 12.00,
+        "category": "Adventure",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 5,
+        "name": "Tech Innovations",
+        "title": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "price": 20.00,
+        "category": "Technology",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 6,
+        "name": "The Fantasy World",
+        "title": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis.",
+        "price": 8.99,
+        "category": "Fantasy",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 7,
+        "name": "Science Simplified",
+        "title": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse.",
+        "price": 18.50,
+        "category": "Science",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 8,
+        "name": "Self-Help Guide",
+        "title": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+        "price": 9.00,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 9,
+        "name": "History of the World",
+        "title": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.",
+        "price": 14.99,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 10,
+        "name": "Health and Wellness",
+        "title": "Curabitur pretium tincidunt lacus. Nulla gravida orci a odio.",
+        "price": 11.00,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 11,
+        "name": "Poetry Collection",
+        "title": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus.",
+        "price": 7.50,
+        "category": "Poetry",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 12,
+        "name": "Travel Diaries",
+        "title": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis.",
+        "price": 13.75,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid"
+    }
+]
