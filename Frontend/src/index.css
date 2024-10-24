@@ -8,3 +8,6 @@
 body{
   font-family: 'Poppins', sans-serif;
 }
+.card_title{
+  height: 80px;
+}

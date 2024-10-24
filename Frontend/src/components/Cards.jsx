@@ -1,25 +1,22 @@
 import React from "react";
 
-const Cards = () => {
+const Cards = ( {item} ) => {
   return (
     <>
-      <div>
-        <div className="card bg-base-100 w-96 shadow-xl">
+      <div className="my-5 p-3">
+        <div className="card bg-base-100 w-92 shadow-xl">
           <figure>
-            <img
-              src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-              alt="Shoes"
-            />
+            <img src={item.image} alt="Shoes" />
           </figure>
           <div className="card-body">
             <h2 className="card-title">
-              Shoes!
-              <div className="badge badge-secondary">NEW</div>
+              {item.name}
+              <div className="badge badge-secondary">{item.category}</div>
             </h2>
-            <p>If a dog chews shoes whose shoes does he choose?</p>
-            <div className="card-actions justify-end">
-              <div className="badge badge-outline">Fashion</div>
-              <div className="badge badge-outline">Products</div>
+            <p className="card_title">{item.title}</p>
+            <div className="card-actions justify-between">
+              <div className="badge badge-outline py-4 px-4">${item.price}</div>
+              <div className="badge badge-outline cursor-pointer py-4 px-4 hover:bg-pink-500 duration-300 hover:text-white">Buy Now</div>
             </div>
           </div>
         </div>

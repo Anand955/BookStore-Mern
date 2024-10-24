@@ -53,7 +53,7 @@ const FreeBook = () => {
         </div>
       
        
-       <div>
+       <div className='my-14'>
             <Slider {...settings}>
               {filteredData.map((item)=>(
                 
